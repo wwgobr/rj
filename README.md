@@ -10,7 +10,7 @@ Lembramos que o WWG-RJ é um grupo para quem se identifica como uma mulher e est
 
 [![twitter](http://3.bp.blogspot.com/-BKLoayOxU90/VlEfrKMH05I/AAAAAAAABPg/i_HzaHhUUPA/s1600/Icono%2Btwitter%2Brosa%2Bpeq.png=100x100)](https://twitter.com/WWGBrasil)
 
-[![slack](http://www.freeiconspng.com/uploads/slack-icon-6.png)](https://gophers.slack.com/messages/womenwhogo)
+[![slack](http://www.freeiconspng.com/uploads/slack-icon-6.png=100x100)](https://gophers.slack.com/messages/womenwhogo)
 
 [![meetup](https://www.shareicon.net/download/2016/11/24/856520_media_512x512.png=100x100)](https://www.meetup.com/pt-BR/wwg-rio)
 
