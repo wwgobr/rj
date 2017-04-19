@@ -8,13 +8,13 @@ Lembramos que o WWG-RJ é um grupo para quem se identifica como uma mulher e est
 
 ## Meios de mandar e receber sinal de fumaça para a gente.
 
-[![twitter](http://3.bp.blogspot.com/-BKLoayOxU90/VlEfrKMH05I/AAAAAAAABPg/i_HzaHhUUPA/s1600/Icono%2Btwitter%2Brosa%2Bpeq.png=100x100)](https://twitter.com/WWGBrasil)]
+[![twitter](http://3.bp.blogspot.com/-BKLoayOxU90/VlEfrKMH05I/AAAAAAAABPg/i_HzaHhUUPA/s1600/Icono%2Btwitter%2Brosa%2Bpeq.png=100x100)](https://twitter.com/WWGBrasil)
 
-[![slack](http://www.freeiconspng.com/uploads/slack-icon-6.png=100x100)](https://gophers.slack.com/messages/womenwhogo)]
+[![slack](http://www.freeiconspng.com/uploads/slack-icon-6.png){:height="100px" width="100px"}](https://gophers.slack.com/messages/womenwhogo)
 
-[![meetup](https://www.shareicon.net/download/2016/11/24/856520_media_512x512.png=100x100)](https://www.meetup.com/pt-BR/wwg-rio)]
+[![meetup](https://www.shareicon.net/download/2016/11/24/856520_media_512x512.png=100x100)](https://www.meetup.com/pt-BR/wwg-rio)
 
-[![telegram](http://www.lecard.com.br/img/telegram.png=100x100)](https://telegram.me/joinchat/BCOBsj6vVeV62WJXeajheA)]
+[![telegram](http://www.lecard.com.br/img/telegram.png=100x100)](https://telegram.me/joinchat/BCOBsj6vVeV62WJXeajheA)
 
-[![email](http://maede2.com.br/wp-content/uploads/2015/03/RvRIiYO.png=100x100)](riodejaneiro@womenwhogo.org)]
+[![email](http://maede2.com.br/wp-content/uploads/2015/03/RvRIiYO.png=100x100)](riodejaneiro@womenwhogo.org)
 
