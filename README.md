@@ -1,7 +1,7 @@
 ## Sobre o Women Who Go RJ
 ### Construindo uma comunidade #golang mais diversificada e inclusiva.
 
-O Women Who Go, foi criado em San Francisco pela a Sarah Adams, e tem como finalidade em promover a diversidade de gênero na comunidade de Golang. Com essa ideia estamos trazendo o WWG para o Rio de Janeiro.
+O Women Who Go, foi criado em San Francisco pela a Sarah Adams, e tem como finalidade promover a diversidade de gênero na comunidade de Golang. E com essa ideia estamos trazendo o WWG para o Rio de Janeiro.
 
 Lembramos que o WWG-RJ é um grupo para quem se identifica como uma mulher e está interessado na linguagem de programação Go.
 
