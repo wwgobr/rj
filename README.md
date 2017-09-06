@@ -4,12 +4,9 @@
   
 ## Evento
 
-Temos um evento vindo.
+Em Breve, Teremos mais um evento ;D
 
-Data e horário: Sábado, 15 de julho de 2017 - 10:00 às 18:00
-Endereço: Città América - Av das Américas, 700 - bloco 2 - Barra da Tijuca
-
-### [Inscreva-se](https://eventoinscricao.typeform.com/to/ZN3e4v)
+### [Em Breve](#)
 
 
 ## Fique Conosco
